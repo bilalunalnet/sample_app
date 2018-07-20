@@ -25,5 +25,5 @@
 # Ignore Spring files.
 /spring/*.pid
 
-# RubyMine files :(
-.idea
+# Ignore uploaded test images
+/public/uploads
